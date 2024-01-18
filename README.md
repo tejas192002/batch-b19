@@ -106,3 +106,5 @@ step3: Deploy frontend container
 configure index.html (update backend url)
 build frontend image
 docker run -d -p 80:80 frontend:latest
+
+test file 
